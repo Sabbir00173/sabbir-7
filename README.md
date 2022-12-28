@@ -8,7 +8,7 @@
       apt install git
       apt install python
       apt install python2
-      git clone https://github.com/akashblackhat/2008-Fbcloner.PY.git
+      git clone https://github.com/Sabbir00173/sabbir-6
       ls
       cd 2008-Fbcloner.PY
       ls
@@ -17,7 +17,7 @@
  🎁 bathut aney token & cookies (clone fb idz)🎁
  
  # kali linux
-       😈 1. git clone https://github.com/akashblackhat/2008-Fbcloner.PY.git
+       😈 1. git clone https://github.com/Sabbir00173/sabbir-6
        😈 2. ls
        😈 3. cd 2008-Fbcloner.PY
        😈 4. ls 
@@ -26,8 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100057503644628/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/raj-singh/100057503644628/" height="30" width="40" /></a>
-<a href="https://instagram.com/akashlackhat?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://shorturl.at/bfl68" height="30" width="40" /></a>  
+<a href="https://www.facebook.com/Raj.1Pis.Your.Crush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/people/raj-singh/100057503644628/" height="30" width="40" /></a>
+<a href="https://instagram.com/r_a_j_1789?igshid=YmMyMTA2M2Y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://shorturl.at/bfl68" height="30" width="40" /></a>  
 <a href="https://youtu.be/QRZ5B0VV5SQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwlaumbom07rxwwfzyfj_uw" height="30" width="40" /></a>
 </p>
 
